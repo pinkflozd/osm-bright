@@ -21,12 +21,12 @@
 Map { font-directory: url(./fonts); }
 
 /* set up font sets for various weights and styles */
-@sans_lt:           "Roboto Light Condensed","DejaVu Sans Book","unifont Medium";
-@sans_lt_italic:    "Roboto Light Condensed Italic","DejaVu Sans Italic","unifont Medium";
-@sans:              "Roboto Condensed","DejaVu Sans Book","unifont Medium";
-@sans_italic:       "Roboto Condensed Italic","DejaVu Sans Italic","unifont Medium";
-@sans_bold:         "Roboto Bold Condensed ","DejaVu Sans Bold","unifont Medium";
-@sans_bold_italic:  "Roboto Bold Condensed Italic","DejaVu Sans Bold Italic","unifont Medium";
+@sans_lt:           "Roboto Regular","DejaVu Sans Book","unifont Medium";
+@sans_lt_italic:    "Roboto Italic","DejaVu Sans Italic","unifont Medium";
+@sans:              "Roboto Medium","DejaVu Sans Book","unifont Medium";
+@sans_italic:       "Roboto Medium Italic","DejaVu Sans Italic","unifont Medium";
+@sans_bold:         "Roboto Bold","DejaVu Sans Bold","unifont Medium";
+@sans_bold_italic:  "Roboto Bold Italic","DejaVu Sans Bold Italic","unifont Medium";
 
 /* Some fonts are larger or smaller than others. Use this variable to
    globally increase or decrease the font sizes. */
